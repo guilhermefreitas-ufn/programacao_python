@@ -1,0 +1,23 @@
+Alexandre Zamberlan - alexz@utn.edu.br
+https://github.com/alexandrezamberlan/python-basico
+
+Desafio:
+1) criar uma conta no github (usando o email da ufn)
+2) criar um repositório no github (programação_python)
+
+Ferramentas de prototipação:
+- Google Colab - https://colab.google/
+- VS Code Web - https://vscode.dev/
+
+Plano:
+1) ferramentas e boas praticas de programação
+2) estrutura básica de um programa python: codificação, interpretação e a execução
+3) lógica de programação
+	3.1) instruções
+	- básicas ou primitivas: leitura, escrita, atribuição
+	- controle: condicionais e repetição
+	3.2) variáveis = estruturas de dados físicas
+	- armazenar valores de diferentes tipos: string, inteiro, double, boolean, matrizes (1 dimensão = vetor)
+4) listas e dicionários
+5) arquivos
+6) gráficos
