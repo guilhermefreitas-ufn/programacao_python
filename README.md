@@ -1,2 +1,2 @@
 # programacao_python
-Repositório para disciplina de programação Python
+Repositório para disciplina de programação Python.
