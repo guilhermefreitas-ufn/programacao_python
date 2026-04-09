@@ -137,4 +137,4 @@ for estado in estados:
     print("Tente novamente.")
     teste = input("Digite a sigla do Estado (somente letras maiúsculas): ")
 
-    #usar while not in
+    #while not in
