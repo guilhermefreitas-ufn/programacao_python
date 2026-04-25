@@ -9,8 +9,7 @@ Original file is located at
 Organização dos dados
 
 
-*   arquivo texto (csv) com
-palavras ou expressões pejorativas
+*   arquivo texto (csv) com palavras ou expressões pejorativas
 *   lista para armazenar as palavras ou expressões pejorativas
 *   variável texto (digitada pelo usuário)
 
